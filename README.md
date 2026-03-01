@@ -35,6 +35,35 @@ pip install opencv-python flask numpy pandas
 
 python app.py
 
+## Project Screenshots
+
+### Home Page
+![Home](home.png.jpeg)
+
+### Student Login
+![Student Login](studend_login.png.jpeg)
+
+### Student Dashboard
+![Student Dashboard](student_dashboard.png.jpeg)
+
+### Profile
+![Profile](profile.png.jpeg)
+
+### Admin Login
+![Admin Login](admin_login.png.jpeg)
+
+### Admin Dashboard
+![Admin Dashboard](admin_dashboard.png.jpeg)
+
+### Add Student
+![Add Student](add_student.png.jpeg)
+
+### All Students
+![All Students](all_students.png.jpeg)
+
+### Attendance Files
+![Attendance Files](attendance_files.png.jpeg)
+
 ## Author
 
 Rakshit Kumar
